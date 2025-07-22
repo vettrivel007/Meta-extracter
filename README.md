@@ -13,7 +13,9 @@ Extract metadata (including EXIF data) from image files such as PNG, JPG, and JP
 
    ```bash
    git clone https://github.com/vettrivel007/Meta-extracter.git
-   cd Meta-extracter.py
+   ```
+   ```bash
+   cd Meta-extracter
    ```
 
 2. **Create a Python virtual environment:**
